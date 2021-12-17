@@ -2,8 +2,8 @@
 
 ### **perkenalkan nama saya ferdihardiyansa**
 
-<p align="center"><a href="https://github.com/muhammadrizky16"><img src="https://github-readme-stats.vercel.app/api?username=muhammadrizky16&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/muhammadrizky16"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrizky16&theme=radical&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/ferdihardiyansa"><img src="https://github-readme-stats.vercel.app/api?username=muhammadrizky16&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/ferdhardiyansa"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrizky16&theme=radical&layout=compact"></a></p>
 
 <!--
 **ferdihardiyansa/ferdihardiyansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
